@@ -1,0 +1,3 @@
+[submodule "android-modules"]
+	path = android-modules
+	url = https://github.com/codenon/android-modules.git
