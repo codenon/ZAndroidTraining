@@ -1,5 +1,5 @@
 include ':app'
 
 //settings Be careful to modify!!!
-include ':android-library'
-project(':android-library').projectDir = file("android-library/app")
+include ':comm-utils'
+project(':comm-utils').projectDir = file("android-modules/comm-utils")

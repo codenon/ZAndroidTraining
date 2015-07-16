@@ -29,7 +29,6 @@ proguard/
 .idea/
 
 .gradle
-/.idea/libraries
 .DS_Store
 /build
 /captures
